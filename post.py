@@ -4,9 +4,9 @@ import json
 url = "https://my-json-server.typicode.com/maradeil/fakeapi/posts"
 
 payload = json.dumps({
-    'title': 'foo',
-    'body': 'bar',
-    'userId': 2,
+    'nome': 'serginho bom de prato',
+    'função': 'comer grao de bico',
+    'userId': 3,
   })
 headers = {
   'Content-Type': 'application/json'
