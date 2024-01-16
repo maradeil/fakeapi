@@ -1,6 +1,6 @@
 import requests
 
-url = "https://my-json-server.typicode.com/maradeil/fakeapi/posts"
+url = "https://my-json-server.typicode.com/maradeil/fakeapi/funcoes"
 
 payload = {}
 headers = {}
