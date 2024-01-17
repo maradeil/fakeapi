@@ -1,16 +1,12 @@
 {
-	"pessoas": [
-		{ "id": 1, "nome": "serginho manchineira" },
-        { "id": 2, "nome": "leandrinho macieira" }
-	],
-    "funcoes": [
-        {
-            "id": 1,
-            "função": "comer grão de bico",
-            "missão": "peidar"
-        }
+    "pessoas": [
+      {
+        "id": 1,
+        "nome": "serginho bom de prato"
+      }
     ],
-	"profile": {
-		"name": "typicode"
-	}    
-}
+    "funcoes": {
+      "funcao": "comer grao de bico",
+      "missao": "peidar"
+    }
+  }
