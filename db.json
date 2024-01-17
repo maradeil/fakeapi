@@ -2,7 +2,15 @@
     "pessoas": [
       {
         "id": 1,
-        "nome": "serginho bom de prato"
+        "nome": "serginho manchinigun"
+      },
+      {
+        "id": 2,
+        "nome": "leandrinho macieira"
+      },
+      {
+        "id": 3,
+        "nome": "fernandinho barrabas"
       }
     ],
     "funcoes": {
